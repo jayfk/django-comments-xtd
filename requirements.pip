@@ -1,6 +1,6 @@
 six==1.10.0
 Django==1.9
-docutils
+docutils==0.12
 Markdown==2.6.4
 South==1.0.2
 django-contrib-comments==1.6.1
