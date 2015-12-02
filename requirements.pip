@@ -2,7 +2,7 @@ six
 Django
 docutils
 Markdown
-South
+South==1.0.2
 django-contrib-comments
 #-e git+git://github.com/bartTC/django-markup.git#egg=django-markup
 -e git+git://github.com/danirus/django-markup.git#egg=django-markup
