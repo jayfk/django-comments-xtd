@@ -1,7 +1,7 @@
 six==1.10.0
 Django
 docutils
-Markdown
+Markdown==2.6.4
 South==1.0.2
 django-contrib-comments
 #-e git+git://github.com/bartTC/django-markup.git#egg=django-markup
